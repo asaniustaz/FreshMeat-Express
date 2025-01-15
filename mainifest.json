@@ -1,0 +1,20 @@
+{
+  "name": "Fresh Meat Express",
+  "short_name": "MeatExpress",
+  "start_url": "https://sites.google.com/view/freshmeatexpress/home",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4500",
+  "icons": [
+    {
+      "src": "https://your-icon-host-url/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://your-icon-host-url/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}￼Enter
